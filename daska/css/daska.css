@@ -1,0 +1,61 @@
+
+.nav {
+text-align: center; 
+
+
+
+}
+.nav-link {
+
+color: #383838;
+font-family: 'Roboto', sans-serif;
+margin-right: 40px;
+
+}
+.nav-item {
+background: transparent;
+
+
+}
+
+html {
+background: #FFFFFF;
+
+}
+
+.logo_center {
+align-content: center; 
+
+}
+
+.news_section{
+background-color:#e8e8e8;
+
+}
+.about{
+text-align: center;
+font-family: 'Roboto', sans-serif;
+
+
+}
+
+.text_body{
+font-family: 'Roboto', sans-serif; 
+font-weight: 300; 
+text-align: center;
+margin-left: 150px;
+margin-right: 150px;
+
+
+
+}
+.navbar{
+margin-bottom: 50px;
+
+
+}
+.notif_section{
+background-color: #E8E8E8;
+
+
+}
